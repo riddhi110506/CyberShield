@@ -34,3 +34,8 @@ backups/
 
 # OS files
 .DS_Store
+
+# Temporary backup files
+*.backup
+*.before_*
+*.bak
