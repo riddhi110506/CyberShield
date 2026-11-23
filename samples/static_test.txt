@@ -1,0 +1,15 @@
+CyberShield static analysis test.
+
+This is a harmless test file.
+
+Observed URL:
+http://example.test/login
+
+Observed IP:
+192.0.2.10
+
+Observed command reference:
+powershell.exe
+
+Observed tool reference:
+certutil.exe

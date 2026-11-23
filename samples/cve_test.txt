@@ -1,0 +1,11 @@
+CyberShield Vulnerability Analysis Test
+
+This sample contains references to known vulnerabilities.
+
+CVE-2021-44228
+
+CVE-2021-44228 is associated with Apache Log4j2
+and remote code execution vulnerabilities.
+
+This sample is intended for testing vulnerability
+identification and CVSS information retrieval.
