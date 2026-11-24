@@ -52,15 +52,6 @@ CyberShield follows a modular architecture:
 | Git & GitHub | Version control and project hosting |
 
 
-## 📸 Dashboard Preview
-
-![Main Dashboard](screenshots/dashboard.png)
-
-![URL Analysis](screenshots/url_analysis.png)
-
-![File Analysis](screenshots/file_analysis.png)
-
-
 ## 📂 Project Structure
 
 ```text
